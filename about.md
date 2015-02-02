@@ -10,7 +10,6 @@ We are students of MNNIT Allahabad, currently pursuing our BTech in Computer Sci
 
 We call ourselves PanchDevs.
 
-
 The members of PanchDevs are:
 
 * [Vivek Agarwal](https://github.com/vivek-17)
