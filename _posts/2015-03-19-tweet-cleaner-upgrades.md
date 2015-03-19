@@ -42,7 +42,8 @@ For example
 - `:)` will become `POSITIVE1 EMOTICON`
 - `:D` will become `POSITIVE2 EMOTICON`
 - `:(` will become `NEGATIVE1 EMOTICON`
-- `:'(` will become `NEGATIVE2 EMOTICON` etc.
+- `:'(` will become `NEGATIVE2 EMOTICON`
+- `:|` will become `NEUTRAL EMOTICON` etc.
 
 But the issue comes with the shortforms.
 You see, shortforms, can be expanded into anything.
